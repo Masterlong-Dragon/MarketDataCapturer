@@ -1,5 +1,5 @@
 # MarketDataCapturer
-本项目是2023-2024学年下《软件工程经济学》的行情显示后端。
+本项目是2023-2024学年下《软件工程经济学》的行情显示后端。前端详见[MarketDataView](https://github.com/LZY2275/MarketDataView)
 
 实时市场行情获取存储，以及http查询接口提供。
 
